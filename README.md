@@ -3,6 +3,7 @@
 GMTK Game Jam 2021 Submission @ https://itch.io/jam/gmtk-2021/rate/1081854 for the theme: "**Joined Together**"
 
 **Rated #944 in originality out of 5757 entries, it was written in Processing in 48 hours, along with all the art and music.**
+
 Processing (https://processing.org/) is built on top of Java and has great UI libraries that allowed for the rapid development of the game
 
 
