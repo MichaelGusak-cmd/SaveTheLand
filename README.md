@@ -10,6 +10,7 @@ Its a short 2D game about 'finding' a set number of tiles that are required per 
 
 - Loading, displaying and transitioning between 2d animations
 - Perlin noise functions are awesome
+- Level design must be considered ahead of time to mesh with the mechanics optimally
 
 How I could change/improve this game:
 
